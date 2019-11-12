@@ -1,0 +1,19 @@
+h1 {color: Yellow; font-size: 22pt;} 
+
+body { 	background: Gray;
+color: Yellow; font-size: 14pt; font-family: 'Big Shoulders Text';}
+
+p {color: Yellow; font-weight: bold;}
+
+a:hover { color: Yellow } 
+
+work p  { color: Orange }
+work h1 {color: Orange } 
+
+nav a {	display: inline-block;
+        	border: 2px Yellow;
+        	padding: 10px;
+		margin: 5px;
+		background: Orange;}
+
+
